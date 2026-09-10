@@ -1,0 +1,43 @@
+    1  exit
+    2  pwd
+    3  whoami
+    4  who
+    5  id
+    6  w
+    7  last
+    8  uname -a
+    9  cat /proc/cpuinfo
+   10  cat /proc/meminfo
+   11  cat /proc/partitions
+   12  free -h
+   13  df -h
+   14  lsb_release -a
+   15  lsblk
+   16  lscpu
+   17  ps aux
+   18  top
+   19  history
+   20  exit
+   21  ssh-keygen -t ed25519
+   22  ls -l
+   23  pwd
+   24  ls -la
+   25  cd .ssh
+   26  ls -l
+   27  cat id_ed25519.pub
+   28  cd..
+   29  cd ..
+   30  ls -l
+   31  mkdir clase3
+   32  ls -l
+   33  cd clase3/
+   34  git clone git@github.com:Ninabi-Ang/Clase3Arq_Sanchez_Aime.git
+   35  ls -l
+   36  cd Clase3Arq_Sanchez_Aime/
+   37  pwd
+   38  ls -l
+   39  cat README.md 
+   40  ls -la
+   41  git status
+   42  history
+   43  history > historial.txt
